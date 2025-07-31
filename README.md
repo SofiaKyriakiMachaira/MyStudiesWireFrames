@@ -1,5 +1,5 @@
 # MyStudies Sitemap & Wireframes Presentation
-<h3>Team members: Nick Dalkos & Spyros Fotopoulos</h3>
+<h3>Team members: <a href="https://github.com/deltaes" target="_blank">Nick Dalkos</a> & <a href="https://github.com/sfoto" target="_blank">Spyros Fotopoulos</a></h3>
 <h5>Duration: Nov 2023 - Jan 2024</h5>
 Sitemap &amp; wireframes presentation, a three-person team university assignment aiming to remake the University of Athens' website for class registrations and students' grading. After diagnosing the UI/UX design principles violations, we used Figma to: <br/>
 • Recreate the whole interface, including user management, FAQ & error pages, for mobile optimization & modernization <br/>
